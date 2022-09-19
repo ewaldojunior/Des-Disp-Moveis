@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atv1_Componentes_basicos</string>
+
+    <string-array name="genero">
+        <item>Feminino</item>
+        <item>Masculino</item>
+        <item>Outro</item>
+    </string-array>
+
+    <string name="select">Selecione um item</string>
+</resources>
